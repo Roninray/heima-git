@@ -1,3 +1,1 @@
-window.onload = {
-
-}
+console.log('我是分支demo')
